@@ -9,12 +9,12 @@ A sablon INGYENES.
 Kiadta: Csoda Web Design
 Írta: Csordás Dominik
 # Felhasználó jogai
-Lorem Ipsum szövegek átírása, címek átírása (EBBE A METAADATOK NEM TRARTOZNAK BELE!)
+Lorem Ipsum szövegek átírása, címek átírása (EBBE A METAADATOK NEM TRARTOZNAK BELE!),
 Az index.html oldal duplázása, és több aloldal létrehozása
 # Tiltott jogok
 METAADATOK átírása
 Lábléc átírása
 # Ajánlott tárhelyszolgáltatók
-ATW.hu (ATW Internet KFT)
-Sunwell
+ATW.hu (ATW Internet KFT),
+Sunwell,
 RoyalHost (itt VPS van, ami nagyon jó, oda kell felrakni)
